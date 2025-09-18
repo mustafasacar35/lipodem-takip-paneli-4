@@ -1204,6 +1204,36 @@
           "isReversedSeason": false
         },
         {
+          "name": "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin Kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+          "category": "ÖĞLEN",
+          "role": "mainDish",
+          "calories": 0,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0,
+          "maxQuantity": 1,
+          "minQuantity": 0.5,
+          "step": 0.5,
+          "tags": [],
+          "compatibilityTags": [
+            "salata",
+            "peynir",
+            "domates",
+            "avokado"
+          ],
+          "keto": true,
+          "lowcarb": true,
+          "fillerLunch": false,
+          "fillerDinner": false,
+          "portionFixed": false,
+          "multiplier": 1,
+          "seasonRange": "[1,12]",
+          "mealType": [
+            "lunch"
+          ],
+          "isReversedSeason": false
+        },
+        {
           "name": "Yumurta Salatası",
           "category": "ÖĞLEN",
           "role": "mainDish",
@@ -1381,6 +1411,41 @@
             "salata",
             "kuruyemiş",
             "sebze"
+          ],
+          "keto": true,
+          "lowcarb": true,
+          "fillerLunch": false,
+          "fillerDinner": false,
+          "portionFixed": false,
+          "multiplier": 1,
+          "seasonRange": "[1,12]",
+          "mealType": [
+            "lunch"
+          ],
+          "isReversedSeason": false
+        },
+        {
+          "name": "1 yumurta, 1 çorba kaşığı lupin unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve lupin ununu çırpın, istediğiniz baharatları ekleyin Kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+          "category": "ÖĞLEN",
+          "role": "mainDish",
+          "calories": 0,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0,
+          "maxQuantity": 1,
+          "minQuantity": 0.5,
+          "step": 0.5,
+          "tags": [
+            "yumurta",
+            "zeytin",
+            "zeytinyağı",
+            "keto"
+          ],
+          "compatibilityTags": [
+            "salata",
+            "peynir",
+            "domates",
+            "avokado"
           ],
           "keto": true,
           "lowcarb": true,
@@ -8807,6 +8872,39 @@
           "isReversedSeason": false
         },
         {
+          "name": "Fındık  (10 adet)",
+          "category": "KURUYEMİŞLER",
+          "role": "mainDish",
+          "calories": 0,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0,
+          "maxQuantity": 1,
+          "minQuantity": 0.5,
+          "step": 0.5,
+          "tags": [
+            "fındık",
+            "keto"
+          ],
+          "compatibilityTags": [
+            "salata",
+            "yoğurt",
+            "kuruyemiş",
+            "soğan"
+          ],
+          "keto": true,
+          "lowcarb": true,
+          "fillerLunch": false,
+          "fillerDinner": false,
+          "portionFixed": false,
+          "multiplier": 1,
+          "seasonRange": "[1,12]",
+          "mealType": [
+            "lunch"
+          ],
+          "isReversedSeason": false
+        },
+        {
           "name": "5 adet Ceviz",
           "category": "KURUYEMİŞLER",
           "role": "snack",
@@ -8828,6 +8926,36 @@
           "fillerLunch": true,
           "fillerDinner": true,
           "portionFixed": true,
+          "multiplier": 1,
+          "seasonRange": "[1,12]",
+          "mealType": [
+            "lunch",
+            "dinner"
+          ],
+          "isReversedSeason": false
+        },
+        {
+          "name": "Çiğ badem  (20 adet)",
+          "category": "KURUYEMİŞLER",
+          "role": "snack",
+          "calories": 150,
+          "protein": 5,
+          "carbs": 1,
+          "fat": 14,
+          "maxQuantity": 1,
+          "minQuantity": 0.5,
+          "step": 0.5,
+          "tags": [
+            "badem",
+            "keto",
+            "kuruyemiş"
+          ],
+          "compatibilityTags": [],
+          "keto": true,
+          "lowcarb": true,
+          "fillerLunch": true,
+          "fillerDinner": true,
+          "portionFixed": false,
           "multiplier": 1,
           "seasonRange": "[1,12]",
           "mealType": [
@@ -14739,36 +14867,6 @@
       "name": "OGLE",
       "items": [
         {
-          "name": "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
-          "category": "OGLE",
-          "calories": 226,
-          "protein": 13,
-          "carbs": 3,
-          "fat": 18,
-          "minQuantity": 0.5,
-          "maxQuantity": 1,
-          "step": 0.5,
-          "multiplier": 1,
-          "role": "mainDish",
-          "mealType": [
-            "lunch"
-          ],
-          "keto": true,
-          "lowcarb": true,
-          "portionFixed": false,
-          "fillerLunch": false,
-          "fillerDinner": false,
-          "tags": [],
-          "compatibilityTags": [
-            "salata",
-            "peynir",
-            "domates",
-            "avokado"
-          ],
-          "seasonRange": "[1,12]",
-          "isReversedSeason": false
-        },
-        {
           "name": "yumurta salatasä± (2 adet haålanmä±å yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 yemek kaåä±ää± zeytinyaää±",
           "category": "OGLE",
           "calories": 272.4,
@@ -15065,41 +15163,6 @@
           "compatibilityTags": [],
           "seasonRange": "[1,12]",
           "isReversedSeason": false
-        },
-        {
-          "name": "1 yumurta, 1 çorba kaşığı lupin unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve lupin ununu çırpın, istediğiniz baharatları ekleyin kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
-          "category": "OGLE",
-          "calories": 234,
-          "protein": 15,
-          "carbs": 3,
-          "fat": 18,
-          "minQuantity": 0.5,
-          "maxQuantity": 1,
-          "step": 0.5,
-          "multiplier": 1,
-          "role": "mainDish",
-          "mealType": [
-            "lunch"
-          ],
-          "keto": true,
-          "lowcarb": true,
-          "portionFixed": false,
-          "fillerLunch": false,
-          "fillerDinner": false,
-          "tags": [
-            "yumurta",
-            "zeytin",
-            "zeytinyağı",
-            "keto"
-          ],
-          "compatibilityTags": [
-            "salata",
-            "peynir",
-            "domates",
-            "avokado"
-          ],
-          "seasonRange": "[1,12]",
-          "isReversedSeason": false
         }
       ]
     },
@@ -15164,68 +15227,6 @@
           "fillerDinner": false,
           "tags": [
             "kivi"
-          ],
-          "compatibilityTags": [],
-          "seasonRange": "[1,12]",
-          "isReversedSeason": false
-        },
-        {
-          "name": "fındık  (10 adet)",
-          "category": "APERATIF",
-          "calories": 0,
-          "protein": 0,
-          "carbs": 0,
-          "fat": 0,
-          "minQuantity": 0.5,
-          "maxQuantity": 1,
-          "step": 0.5,
-          "multiplier": 1,
-          "role": "mainDish",
-          "mealType": [
-            "lunch"
-          ],
-          "keto": true,
-          "lowcarb": true,
-          "portionFixed": false,
-          "fillerLunch": false,
-          "fillerDinner": false,
-          "tags": [
-            "fındık",
-            "keto"
-          ],
-          "compatibilityTags": [
-            "salata",
-            "yoğurt",
-            "kuruyemiş",
-            "soğan"
-          ],
-          "seasonRange": "[1,12]",
-          "isReversedSeason": false
-        },
-        {
-          "name": "çiğ badem  (20 adet)",
-          "category": "APERATIF",
-          "calories": 70,
-          "protein": 2,
-          "carbs": 2,
-          "fat": 6,
-          "minQuantity": 0.5,
-          "maxQuantity": 1,
-          "step": 0.5,
-          "multiplier": 1,
-          "role": "snack",
-          "mealType": [
-            "lunch",
-            "dinner"
-          ],
-          "keto": true,
-          "lowcarb": true,
-          "portionFixed": false,
-          "fillerLunch": true,
-          "fillerDinner": true,
-          "tags": [
-            "badem",
-            "keto"
           ],
           "compatibilityTags": [],
           "seasonRange": "[1,12]",
