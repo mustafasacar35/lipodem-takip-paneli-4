@@ -1,427 +1,860 @@
 [
   {
-    "id": "1757619555118",
-    "name": "1. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Pazartesi̇ - öğle. 2. hafta",
-    "type": "öğle (tercihen saat 12:00 civarında)",
-    "createdDate": "2025-09-11",
-    "dietType": null,
-    "dietTypeName": null,
-    "totalMacros": {
-      "kalori": 281,
-      "protein": 10,
-      "karb": 4,
-      "yag": 25
-    },
-    "foods": [
-      {
-        "foodName": "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin Kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
-        "originalText": "Badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. İstediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı ile tavayı yağlağın.)"
-      },
-      {
-        "foodName": "Tulum / kaşar / lor peyniri (30 gram)",
-        "originalText": "Tulum / kaşar / lor peyniri (50 gram)"
-      },
-      {
-        "foodName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
-        "originalText": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke ve limon ile)"
-      },
-      {
-        "foodName": "Fındık (20 adet)",
-        "originalText": "Fındık (20 adet)"
-      }
-    ],
-    "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "PAZARTESİ"
-    }
-  },
-  {
-    "id": "1757619574819",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Pazartesi̇ - akşam. 2. hafta",
+    "id": "1757798173006",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Pazartesi̇ - akşam. 49. hafta",
     "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 624,
+      "kalori": 549,
       "protein": 29,
-      "karb": 10,
-      "yag": 52
+      "karb": 7,
+      "yag": 45
     },
     "foods": [
       {
-        "foodName": "Enginar Mantısı (1 porsiyon)",
-        "originalText": "Enginar mantısı (150 gr kıyma ile)"
+        "foodName": "Köfte",
+        "originalText": "köfte"
       },
       {
-        "foodName": "Mevsim salata (marul, dereotu, roka, kırmızı lahana, turp + 1 yemek kaşığı zeytinyağı)",
-        "originalText": "Mevsim salata (marul, dereotu, roka, kırmızı lahana + 1 yemek kaşığı zeytinyağı)"
+        "foodName": "Yoğurtlu Kabak Mezesi",
+        "originalText": "yoğurtlu kabak mezesi"
       },
       {
-        "foodName": "Pita Ekmeği",
-        "originalText": "Pita ekmeği (1 adet) Turşu (organik, ev yapımı)"
+        "foodName": "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)"
       },
       {
         "foodName": "Toz kollajen 1 ölçek",
-        "originalText": "Toz kollajen 1 ölçek"
+        "originalText": "toz kollajen 1 ölçek"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "PAZARTESİ"
-    }
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "PAZARTESİ"
+    },
+    "displayName": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Pazartesi̇ - akşam. 49. hafta"
   },
   {
-    "id": "1757619579776",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Sali - öğle. 2. hafta",
+    "id": "1757798179732",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Sali - öğle. 49. hafta",
     "type": "öğle (tercihen saat 12:00 civarında)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 499,
-      "protein": 21,
-      "karb": 7,
-      "yag": 43
+      "kalori": 827,
+      "protein": 42,
+      "karb": 14,
+      "yag": 67
+    },
+    "foods": [
+      {
+        "foodName": "Fırında Menemen",
+        "originalText": "fırında menemen"
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)"
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 yemek kaşığı zeytinyağı ile)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "SALI"
+    },
+    "displayName": "2. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Sali - öğle. 49. hafta"
+  },
+  {
+    "id": "1757798184186",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Sali - akşam. 49. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 294,
+      "protein": 9,
+      "karb": 15,
+      "yag": 22
+    },
+    "foods": [
+      {
+        "foodName": "1 dilim Pırasalı Tava Böreği",
+        "originalText": "hindi ızgara tava"
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "SALI"
+    },
+    "displayName": "3. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Sali - akşam. 49. hafta"
+  },
+  {
+    "id": "1757798186879",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Çarşamba - öğle. 49. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 678,
+      "protein": 35,
+      "karb": 13,
+      "yag": 54
     },
     "foods": [
       {
         "foodName": "Sahanda Yumurta (1 adet), 1 tatlı kaşığı tereyağı ile",
-        "originalText": "Sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)"
+        "originalText": "sahanda yumurta (1 adet + 1 tatlı kaşığı tereyağı ile)"
       },
       {
-        "foodName": "Tulum / kaşar / lor peyniri (30 gram)",
-        "originalText": "Tulum / kaşar / lor peyniri (50 gram)"
+        "foodName": "Fırında Menemen",
+        "originalText": "fırında menemen"
       },
       {
-        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
-        "originalText": "Yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)"
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
       },
       {
-        "foodName": "Pita Ekmeği",
-        "originalText": "Zeytin (10 adet) Pita ekmeği (1 adet)"
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)"
       },
       {
-        "foodName": "Ceviz (3 adet)",
-        "originalText": "Ceviz (3 adet)"
+        "foodName": "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber"
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "fındık (10 adet)"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "SALI"
-    }
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "4. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Çarşamba - öğle. 49. hafta"
   },
   {
-    "id": "1757619584845",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Sali - akşam. 2. hafta",
+    "id": "1757798189489",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Çarşamba - akşam. 49. hafta",
     "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 32.4,
-      "protein": 1.9,
-      "karb": 3.5,
-      "yag": 1.2
+      "kalori": 736,
+      "protein": 35,
+      "karb": 14,
+      "yag": 60
     },
     "foods": [
       {
-        "foodName": "Köz Patlıcan",
-        "originalText": "200 gram köfte 100 gram köz patlıcan (1 tatlı kaşığı zeytinyağı ve tuz ile soteleyin. Soğuyunca 2 kaşık yoğurt ekleyip karıştırın. Üzerine köfteleri koyun)."
+        "foodName": "Tavuk Güveç",
+        "originalText": "tavuk güveç"
       },
       {
-        "foodName": "2 yemek kaşığı ev yoğurdu",
-        "originalText": "2 yemek kaşığı ev yoğurdu"
+        "foodName": "Avokadolu Roka Salatası",
+        "originalText": "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı kaşığı zeytinyağı ve"
       },
       {
-        "foodName": "Turşu (organik, ev yapımı)",
-        "originalText": "Turşu (organik, ev yapımı)"
-      },
-      {
-        "foodName": "Toz kollajen 1 ölçek",
-        "originalText": "Toz kollajen 1 ölçek"
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "SALI"
-    }
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "5. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Çarşamba - akşam. 49. hafta"
   },
   {
-    "id": "1757619588851",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Çarşamba - öğle. 2. hafta",
+    "id": "1757798191419",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Perşembe - öğle. 49. hafta",
     "type": "öğle (tercihen saat 12:00 civarında)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 268,
-      "protein": 8,
-      "karb": 5,
-      "yag": 24
+      "kalori": 592,
+      "protein": 27,
+      "karb": 13,
+      "yag": 48
     },
     "foods": [
       {
-        "foodName": "Pita Ekmeği",
-        "originalText": "Pita ekmeği (2 adet) Tulum / kaşar / lor peyniri (50 gram)"
-      },
-      {
-        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
-        "originalText": "Yeşillikler (dereotu, roka, maydanoz, marul, sirke + limon ve 1 yemek kaşığı zeytinyağı ile)"
+        "foodName": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "originalText": "lupin unlu poğaça (veya 3 adet lorlu poğaça)"
       },
       {
         "foodName": "Zeytin (10 adet)",
-        "originalText": "Zeytin (5 adet) Fındık (20 adet)"
-      }
-    ],
-    "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "ÇARŞAMBA"
-    }
-  },
-  {
-    "id": "1757619591513",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Çarşamba - akşam. 2. hafta",
-    "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
-    "dietType": null,
-    "dietTypeName": null,
-    "totalMacros": {
-      "kalori": 349,
-      "protein": 46,
-      "karb": 3,
-      "yag": 17
-    },
-    "foods": [
-      {
-        "foodName": "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
-        "originalText": "250 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)"
-      },
-      {
-        "foodName": "2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı",
-        "originalText": "2 avuç yeşil salata + bir yemek kaşığı zeytin yağı"
-      },
-      {
-        "foodName": "Toz kollajen 1 ölçek",
-        "originalText": "Toz kollajen 1 ölçek"
-      }
-    ],
-    "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "ÇARŞAMBA"
-    }
-  },
-  {
-    "id": "1757619596045",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Perşembe - öğle. 2. hafta",
-    "type": "öğle (tercihen saat 12:00 civarında)",
-    "createdDate": "2025-09-11",
-    "dietType": null,
-    "dietTypeName": null,
-    "totalMacros": {
-      "kalori": 749,
-      "protein": 30,
-      "karb": 11,
-      "yag": 65
-    },
-    "foods": [
-      {
-        "foodName": "Badem Unlu Dere Otlu Poğaça (3 poğaça)",
-        "originalText": "Badem unlu dereotlu poğaça (3 adet)"
-      },
-      {
-        "foodName": "Tulum / kaşar / lor peyniri (30 gram)",
-        "originalText": "Tulum / kaşar / lor peyniri (50 gram)"
+        "originalText": "zeytin (10 adet)"
       },
       {
         "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
-        "originalText": "Salatalık (orta boy) + Cherry domates (2 adet)"
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 tatlı kaşığı zeytinyağı ile"
       },
       {
-        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
-        "originalText": "Yeşillikler (dereotu, roka, maydanoz, marul sirke + limon ve 1 yemek kaşığı zeytinyağı ile)"
-      },
-      {
-        "foodName": "Ceviz (5 adet)",
-        "originalText": "Ceviz (5 adet)"
-      }
-    ],
-    "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "PERŞEMBE"
-    }
-  },
-  {
-    "id": "1757619598901",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Perşembe - akşam. 2. hafta",
-    "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
-    "dietType": null,
-    "dietTypeName": null,
-    "totalMacros": {
-      "kalori": 435,
-      "protein": 33,
-      "karb": 3,
-      "yag": 31
-    },
-    "foods": [
-      {
-        "foodName": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
-        "originalText": "Tavuklu Bamya Yemeği Yoğurtlu Salatalık Mezesi"
-      },
-      {
-        "foodName": "Un Helvası",
-        "originalText": "Un helvası Toz kollajen 1 ölçek"
-      }
-    ],
-    "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "PERŞEMBE"
-    }
-  },
-  {
-    "id": "1757619601219",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cuma - öğle. 2. hafta",
-    "type": "öğle (tercihen saat 12:00 civarında)",
-    "createdDate": "2025-09-11",
-    "dietType": null,
-    "dietTypeName": null,
-    "totalMacros": {
-      "kalori": 1075,
-      "protein": 49,
-      "karb": 15,
-      "yag": 91
-    },
-    "foods": [
-      {
-        "foodName": "Badem Unlu Dere Otlu Poğaça (3 poğaça)",
-        "originalText": "Badem unlu dereotlu poğaça (3 adet)"
+        "foodName": "Közlenmiş Kapya Biber",
+        "originalText": "közlenmiş kapya biber ( 50 gr)"
       },
       {
         "foodName": "Tulum /kaşar peyniri (50 gram)",
-        "originalText": "Tulum / kaşar peyniri (50 gram)"
-      },
-      {
-        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
-        "originalText": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke+1 tatlı kaşığı zeytinyağı ile)"
-      },
-      {
-        "foodName": "Fındık (20 adet)",
-        "originalText": "Fındık (20 adet)"
-      },
-      {
-        "foodName": "Yoğurtlu çılbır",
-        "originalText": "Yoğurtlu çılbır Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon, sirke ve 1 tatlı kaşığı zeytinyağı ile)"
-      },
-      {
-        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
-        "originalText": "Cherry domates (2 adet) Fındık (20 adet)"
+        "originalText": "tulum peyniri (50 gram)"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "CUMA"
-    }
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "6. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Perşembe - öğle. 49. hafta"
   },
   {
-    "id": "1757619603490",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cuma - akşam. 2. hafta",
+    "id": "1757798194020",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Perşembe - akşam. 49. hafta",
     "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 651,
-      "protein": 46,
-      "karb": 11,
+      "kalori": 584,
+      "protein": 38.5,
+      "karb": 13,
+      "yag": 42
+    },
+    "foods": [
+      {
+        "foodName": "Tavuklu Domates Çorbası",
+        "originalText": "tavuklu domates çorbası"
+      },
+      {
+        "foodName": "Patlıcan Musakka",
+        "originalText": "patlıcan musakka (150 gr kıyma ile)"
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)"
+      },
+      {
+        "foodName": "Kabak Çekirdeği (1 avuç)",
+        "originalText": "kabak çekirdeği (1 avuç)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "7. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Perşembe - akşam. 49. hafta"
+  },
+  {
+    "id": "1757798198355",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Cuma - akşam. 49. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 844,
+      "protein": 49,
+      "karb": 18,
+      "yag": 64
+    },
+    "foods": [
+      {
+        "foodName": "200 gram ızgara ya da tavada kırmızı et",
+        "originalText": "ızgara ya da tavada mevsim balığı"
+      },
+      {
+        "foodName": "Yeşil Salata",
+        "originalText": "yeşil salata (mevsim yeşillikleri+ 1 yemek kaşığı zeytinyağı)"
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "ceviz (5 adet)"
+      },
+      {
+        "foodName": "200 gram kuzu kavurma",
+        "originalText": "köfte / ya da 150 gram kuzu kavurma"
+      },
+      {
+        "foodName": "Cevizli Kaşık Salatası",
+        "originalText": "cevizli kaşık salatası"
+      }
+    ],
+    "sourcePatient": {
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "CUMA"
+    },
+    "displayName": "8. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Cuma - akşam. 49. hafta"
+  },
+  {
+    "id": "1757798200387",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Cumartesi̇ - öğle. 49. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 669,
+      "protein": 29,
+      "karb": 10,
+      "yag": 57
+    },
+    "foods": [
+      {
+        "foodName": "Haşlanmış Yumurta (1 adet) + 1 Tatlı Kaşığı Tereyağı ve Baharatlar",
+        "originalText": "haşlanmış yumurta (1 adet)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık+ limon ve sirke ile)"
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)"
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "CUMARTESİ"
+    },
+    "displayName": "9. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Cumartesi̇ - öğle. 49. hafta"
+  },
+  {
+    "id": "1757798205007",
+    "name": "1. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Cumartesi̇ - akşam. 49. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 643,
+      "protein": 43,
+      "karb": 12,
       "yag": 47
     },
     "foods": [
       {
-        "foodName": "Yoğurtlu Kabak Mezesi",
-        "originalText": "Tavuk ya da kuzugüveç Yoğurtlu Kabak Mezesi"
-      },
-      {
-        "foodName": "Turşu (organik, ev yapımı)",
-        "originalText": "Turşu (organik, ev yapımı)"
-      },
-      {
-        "foodName": "Pita Ekmeği",
-        "originalText": "Pita ekmeği (1 adet) Toz kollajen 1 ölçek"
-      },
-      {
         "foodName": "200 gram kuzu kavurma",
-        "originalText": "200 gram köfte / ya da 200 gram kuzu kavurma"
+        "originalText": "köfte / ya da 150 gram kuzu kavurma"
       },
       {
-        "foodName": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
-        "originalText": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
-      },
-      {
-        "foodName": "Toz kollajen 1 ölçek",
-        "originalText": "Toz kollajen 1 ölçek"
+        "foodName": "Cevizli Kaşık Salatası",
+        "originalText": "cevizli kaşık salatası"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "CUMA"
-    }
+      "name": "HAFİZE TOK",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 49,
+      "dayName": "CUMARTESİ"
+    },
+    "displayName": "10. 📋 HAFİZE TOK - 8-14 EYLÜL 2025 - Cumartesi̇ - akşam. 49. hafta"
   },
   {
-    "id": "1757619610537",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cumartesi̇ - öğle. 2. hafta",
+    "id": "1757798226907",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Pazartesi̇ - öğle. 37. hafta",
     "type": "öğle (tercihen saat 12:00 civarında)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 438,
+      "kalori": 492,
       "protein": 18,
       "karb": 6,
-      "yag": 38
+      "yag": 44
+    },
+    "foods": [
+      {
+        "foodName": "Hindistancevizi Unlu Ispanaklı Muffin (2 adet)",
+        "originalText": "hindistancevizi unlu ispanaklı muffin"
+      },
+      {
+        "foodName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke ve limon ve bir tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Fındık (20 adet)",
+        "originalText": "fındık (20 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "PAZARTESİ"
+    },
+    "displayName": "11. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Pazartesi̇ - öğle. 37. hafta"
+  },
+  {
+    "id": "1757798229359",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Pazartesi̇ - akşam. 37. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 560,
+      "protein": 32,
+      "karb": 6,
+      "yag": 44
+    },
+    "foods": [
+      {
+        "foodName": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+        "originalText": "tavuklu bamya yemeği"
+      },
+      {
+        "foodName": "Mevsim salata (marul, dereotu, roka, kırmızı lahana, turp + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "mevsim salata (marul, dereotu, roka, kırmızı lahana + 1 yemek kaşığı zeytinyağı)"
+      },
+      {
+        "foodName": "Pita Ekmeği",
+        "originalText": "pita ekmeği (1 adet)"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "PAZARTESİ"
+    },
+    "displayName": "12. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Pazartesi̇ - akşam. 37. hafta"
+  },
+  {
+    "id": "1757798232974",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Sali - öğle. 37. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 642,
+      "protein": 22,
+      "karb": 8,
+      "yag": 58
+    },
+    "foods": [
+      {
+        "foodName": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "originalText": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)"
+      },
+      {
+        "foodName": "Tulum / kaşar / lor peyniri (30 gram)",
+        "originalText": "tulum / kaşar / lor peyniri (30 gram)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 yemek kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)"
+      },
+      {
+        "foodName": "Pita Ekmeği",
+        "originalText": "pita ekmeği (1 adet)"
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "SALI"
+    },
+    "displayName": "13. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Sali - öğle. 37. hafta"
+  },
+  {
+    "id": "1757798234879",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Sali - akşam. 37. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 278.4,
+      "protein": 21.9,
+      "karb": 4.5,
+      "yag": 19.2
+    },
+    "foods": [
+      {
+        "foodName": "Köfte",
+        "originalText": "köfte"
+      },
+      {
+        "foodName": "Köz Patlıcan",
+        "originalText": "köz patlıcan (1 tatlı kaşığı zeytinyağı ve tuz ile soteleyin. soğuyunca 2 kaşık yoğurt ekleyip karıştırın. üzerine köfteleri"
+      },
+      {
+        "foodName": "Yoğurt 2 yemek kaşığı Ev Yoğurdu",
+        "originalText": "ev yoğurdu"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "SALI"
+    },
+    "displayName": "14. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Sali - akşam. 37. hafta"
+  },
+  {
+    "id": "1757798239274",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Çarşamba - öğle. 37. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 731,
+      "protein": 31,
+      "karb": 10,
+      "yag": 63
+    },
+    "foods": [
+      {
+        "foodName": "Hindistancevizi Unlu Ispanaklı Muffin (2 adet)",
+        "originalText": "hindistancevizi unlu ispanaklı muffin"
+      },
+      {
+        "foodName": "Tulum / kaşar / lor peyniri (30 gram)",
+        "originalText": "tulum / kaşar / lor peyniri (30 gram)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul, sirke + limon ve 1 yemek kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      },
+      {
+        "foodName": "Pita Ekmeği",
+        "originalText": "pita ekmeği (1 adet)"
+      },
+      {
+        "foodName": "Fındık (20 adet)",
+        "originalText": "fındık (20 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "15. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Çarşamba - öğle. 37. hafta"
+  },
+  {
+    "id": "1757798240909",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Çarşamba - akşam. 37. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 278,
+      "protein": 45,
+      "karb": 2,
+      "yag": 10
+    },
+    "foods": [
+      {
+        "foodName": "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "originalText": "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)"
+      },
+      {
+        "foodName": "5 adet mantar 1 yemek kaşığı zeytinyağında soteleyin.",
+        "originalText": "mantar 1 yemek kaşığı zeytinyağında soteleyin. en alta salatayı, üzerine mantarları, en üst kısma da balığı ekleyebilirsiniz"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "16. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Çarşamba - akşam. 37. hafta"
+  },
+  {
+    "id": "1757798243655",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Perşembe - öğle. 37. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 296,
+      "protein": 6,
+      "karb": 5,
+      "yag": 28
+    },
+    "foods": [
+      {
+        "foodName": "Ketojenik tost (2 dilim lupin unu ekmeği arasına 50 gram kaşar, yeşillikler, domates)",
+        "originalText": "ketojenik tost (2 dilim lupin unu ekmeği arasına 50 gram kaşar, yeşillikler, domates)"
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)"
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "ceviz (5 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "17. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Perşembe - öğle. 37. hafta"
+  },
+  {
+    "id": "1757798245597",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Perşembe - akşam. 37. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 832,
+      "protein": 38,
+      "karb": 17,
+      "yag": 68
+    },
+    "foods": [
+      {
+        "foodName": "Tavuk Döner (100 gram)",
+        "originalText": "tavuk döner (100 gr)"
+      },
+      {
+        "foodName": "Mücver",
+        "originalText": "lahana ya da kabak mücver"
+      },
+      {
+        "foodName": "Yoğurt 2 yemek kaşığı Ev Yoğurdu",
+        "originalText": "ev yoğurdu"
+      },
+      {
+        "foodName": "Yeşil Salata",
+        "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana,sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "18. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Perşembe - akşam. 37. hafta"
+  },
+  {
+    "id": "1757798249536",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cuma - öğle. 37. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 471,
+      "protein": 24,
+      "karb": 6,
+      "yag": 39
+    },
+    "foods": [
+      {
+        "foodName": "*Avokadolu omlet",
+        "originalText": "avokadolu omlet"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke+1 yemek kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "fındık (10 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "CUMA"
+    },
+    "displayName": "19. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cuma - öğle. 37. hafta"
+  },
+  {
+    "id": "1757798252034",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cuma - akşam. 37. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 1050,
+      "protein": 87,
+      "karb": 18,
+      "yag": 70
+    },
+    "foods": [
+      {
+        "foodName": "Patlıcan Salatalı Tavuk Şiş",
+        "originalText": "patlıcan salatalı tavuk şiş"
+      },
+      {
+        "foodName": "Pita Ekmeği",
+        "originalText": "pita ekmeği (1 adet)"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "San Sebastian Cheesecake",
+        "originalText": "san sebastian cheesecake"
+      },
+      {
+        "foodName": "200 gram kuzu kavurma",
+        "originalText": "köfte / ya da 200 gram kuzu kavurma"
+      },
+      {
+        "foodName": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "originalText": "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "CUMA"
+    },
+    "displayName": "20. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cuma - akşam. 37. hafta"
+  },
+  {
+    "id": "1757798264339",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cumartesi̇ - öğle. 37. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 502.6,
+      "protein": 22,
+      "karb": 6.9,
+      "yag": 43
     },
     "foods": [
       {
         "foodName": "Yoğurtlu çılbır",
-        "originalText": "Yoğurtlu çılbır Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon, sirke ve 1 tatlı kaşığı zeytinyağı ile)"
+        "originalText": "yoğurtlu çılbır"
       },
       {
-        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
-        "originalText": "Cherry domates (2 adet) Fındık (20 adet)"
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon, sirke ve 1 tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "cherry domates (2 adet)",
+        "originalText": "cherry domates (2 adet)"
+      },
+      {
+        "foodName": "Fındık (20 adet)",
+        "originalText": "fındık (20 adet)"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "CUMARTESİ"
-    }
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "CUMARTESİ"
+    },
+    "displayName": "21. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cumartesi̇ - öğle. 37. hafta"
   },
   {
-    "id": "1757619613780",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cumartesi̇ - akşam. 2. hafta",
+    "id": "1757798271389",
+    "name": "1. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cumartesi̇ - akşam. 37. hafta",
     "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
@@ -433,60 +866,523 @@
     "foods": [
       {
         "foodName": "200 gram kuzu kavurma",
-        "originalText": "200 gram köfte / ya da 200 gram kuzu kavurma"
+        "originalText": "köfte / ya da 200 gram kuzu kavurma"
       },
       {
         "foodName": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
-        "originalText": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
+        "originalText": "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
       },
       {
         "foodName": "Toz kollajen 1 ölçek",
-        "originalText": "Toz kollajen 1 ölçek"
+        "originalText": "toz kollajen 1 ölçek"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "CUMARTESİ"
-    }
+      "name": "ZEYNEP NUR ÖZKAYA",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 37,
+      "dayName": "CUMARTESİ"
+    },
+    "displayName": "22. 📋 ZEYNEP NUR ÖZKAYA - 8-14 EYLÜL 2025 - Cumartesi̇ - akşam. 37. hafta"
   },
   {
-    "id": "1757619626855",
-    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Pazar susamli omlet tulum peyniri veya kaşar peyniri (50 gram) - akşam. 2. hafta",
-    "type": "akşam (tercihen hava kararınca)",
-    "createdDate": "2025-09-11",
+    "id": "1757798285406",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Pazartesi̇ - öğle. 24. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
     "dietType": null,
     "dietTypeName": null,
     "totalMacros": {
-      "kalori": 931,
-      "protein": 28,
-      "karb": 18,
-      "yag": 83
+      "kalori": 315,
+      "protein": 13,
+      "karb": 14,
+      "yag": 23
     },
     "foods": [
       {
-        "foodName": "Mücver",
-        "originalText": "Lahana ya da kabak Mücver"
+        "foodName": "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin Kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+        "originalText": "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı ile tavayı"
       },
       {
-        "foodName": "Cevizli biber yoğurtlaması",
-        "originalText": "Cevizli biber yoğurtlaması"
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum peyniri veya kaşar peyniri (50 gram)"
       },
       {
-        "foodName": "Pita Ekmeği",
-        "originalText": "Pita ekmeği (1 adet) Turşu (organik, ev yapımı)"
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
       },
       {
-        "foodName": "Toz kollajen 1 ölçek",
-        "originalText": "Toz kollajen 1 ölçek"
+        "foodName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke, limon ile)"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
       }
     ],
     "sourcePatient": {
-      "name": "BETÜL GENÇ",
-      "dateRange": "11-17 AĞUSTOS",
-      "weekNumber": 2,
-      "dayName": "PAZAR SUSAMLI OMLET TULUM PEYNIRI VEYA KAŞAR PEYNIRI (50 GRAM)"
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "PAZARTESİ"
+    },
+    "displayName": "23. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Pazartesi̇ - öğle. 24. hafta"
+  },
+  {
+    "id": "1757798288887",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Pazartesi̇ - akşam. 24. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 514,
+      "protein": 28,
+      "karb": 24,
+      "yag": 34
+    },
+    "foods": [
+      {
+        "foodName": "Tavuk Güveç",
+        "originalText": "tavuk güveç"
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)"
+      },
+      {
+        "foodName": "1 Adet Elma",
+        "originalText": "elma (100 gr)"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "turşu (organik, ev yapımı)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "PAZARTESİ"
+    },
+    "displayName": "24. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Pazartesi̇ - akşam. 24. hafta"
+  },
+  {
+    "id": "1757798292088",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Sali - öğle. 24. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 526,
+      "protein": 21,
+      "karb": 16,
+      "yag": 42
+    },
+    "foods": [
+      {
+        "foodName": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "originalText": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)"
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum peyniri veya kaşar peyniri (50 gram)"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon +1 tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "SALI"
+    },
+    "displayName": "25. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Sali - öğle. 24. hafta"
+  },
+  {
+    "id": "1757798294535",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Sali - akşam. 24. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 344.4,
+      "protein": 22.9,
+      "karb": 15.5,
+      "yag": 21.2
+    },
+    "foods": [
+      {
+        "foodName": "Köfte",
+        "originalText": "köfte"
+      },
+      {
+        "foodName": "Köz Patlıcan",
+        "originalText": "köz patlıcan (1 yemek kaşığı zeytinyağı ve tuz ile soteleyin. soğuyunca 2 kaşık yoğurt ekleyip karıştırın.üzerine köfteleri"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
+      },
+      {
+        "foodName": "Yoğurt 2 yemek kaşığı Ev Yoğurdu",
+        "originalText": "ev yoğurdu"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "SALI"
+    },
+    "displayName": "26. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Sali - akşam. 24. hafta"
+  },
+  {
+    "id": "1757798302461",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Çarşamba - öğle. 24. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 625,
+      "protein": 24,
+      "karb": 22,
+      "yag": 49
+    },
+    "foods": [
+      {
+        "foodName": "Tereyağlı Kabak",
+        "originalText": "tereyağlı kabak"
+      },
+      {
+        "foodName": "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "originalText": "haşlanmış yumurta (2 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar"
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri (50 gram)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul, sirke vs. ve limon+1 tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "27. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Çarşamba - öğle. 24. hafta"
+  },
+  {
+    "id": "1757798305978",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Çarşamba - akşam. 24. hafta",
+    "type": "ara",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 483,
+      "protein": 51,
+      "karb": 18,
+      "yag": 23
+    },
+    "foods": [
+      {
+        "foodName": "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "originalText": "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)"
+      },
+      {
+        "foodName": "100 gr Şeftali",
+        "originalText": "şeftali (100 gram, orta boy)"
+      },
+      {
+        "foodName": "Brokoli Salatası",
+        "originalText": "Brokoli Salatası"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "28. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Çarşamba - akşam. 24. hafta"
+  },
+  {
+    "id": "1757798311920",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Perşembe - akşam. 24. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 400,
+      "protein": 28,
+      "karb": 18,
+      "yag": 24
+    },
+    "foods": [
+      {
+        "foodName": "Kıymalı Semizotu Yemeği",
+        "originalText": "kıymalı semizotu yemeği"
+      },
+      {
+        "foodName": "Yoğurtlu Salatalık Mezesi",
+        "originalText": "yoğurtlu salatalık mezesi"
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "fındık (10 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "29. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Perşembe - akşam. 24. hafta"
+  },
+  {
+    "id": "1757798317687",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Cuma - öğle. 24. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 632,
+      "protein": 39,
+      "karb": 20,
+      "yag": 44
+    },
+    "foods": [
+      {
+        "foodName": "50 gram beyaz peynir",
+        "originalText": "beyaz peynir"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul, vs + limon, sirke+1 yemek kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
+      },
+      {
+        "foodName": "sebzeli omlet (2 adet yumurta, 2 dilim hindi füme, 5 adet mantar, 5 yaprak ıspanak, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "hindi füme (2 dilim)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "CUMA"
+    },
+    "displayName": "30. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Cuma - öğle. 24. hafta"
+  },
+  {
+    "id": "1757798319712",
+    "name": "1. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Cuma - akşam. 24. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 1379,
+      "protein": 90,
+      "karb": 41,
+      "yag": 95
+    },
+    "foods": [
+      {
+        "foodName": "200 gram tavuk pirzola",
+        "originalText": "tavuk ya da et pirzola"
+      },
+      {
+        "foodName": "Közlenmiş patlıcan salatası",
+        "originalText": "közlenmiş patlıcan salatası"
+      },
+      {
+        "foodName": "1 Adet Elma",
+        "originalText": "elma (100 gr)"
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek"
+      },
+      {
+        "foodName": "Lahana Lazanya",
+        "originalText": "kabak ya da lahana lazanya"
+      },
+      {
+        "foodName": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "originalText": "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
+      },
+      {
+        "foodName": "Un Helvası",
+        "originalText": "un helvası"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "DERYA BAYINDIR",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 24,
+      "dayName": "CUMA"
+    },
+    "displayName": "31. 📋 DERYA BAYINDIR - 8-14 EYLÜL 2025 - Cuma - akşam. 24. hafta"
+  },
+  {
+    "id": "1757798790503",
+    "name": "2. 📋 ŞEFİKE BAY - 25-31 AĞUSTOS 2025 - Çarşamba - öğle. 9. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 539,
+      "protein": 16,
+      "karb": 22,
+      "yag": 43
+    },
+    "foods": [
+      {
+        "foodName": "Peynirli biber dolması (2 adet)",
+        "originalText": "peynirli biber dolması"
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 yemek kaşığı zeytinyağı ile"
+      },
+      {
+        "foodName": "Fındık (20 adet)",
+        "originalText": "fındık (20 adet)"
+      },
+      {
+        "foodName": "Karabuğday ekmeği 1 dilim 25 gr",
+        "originalText": "karabuğday ekmeği 1 dilim 25 gr"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "ŞEFİKE BAY",
+      "dateRange": "25-31 AĞUSTOS",
+      "weekNumber": 9,
+      "dayName": "ÇARŞAMBA"
+    },
+    "displayName": "32. 📋 ŞEFİKE BAY - 25-31 AĞUSTOS 2025 - Çarşamba - öğle. 9. hafta"
+  },
+  {
+    "id": "5ab0df5e-a7dd-44d6-b61d-da31e8730df6",
+    "name": "3. 📋 PAKİZE AKÇAY - 8-14 EYLÜL 2025 - Pazar - öğle. 1. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-13",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 1509,
+      "protein": 76,
+      "karb": 20,
+      "yag": 125
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (1 adet), 1 tatlı kaşığı tereyağı ile",
+        "originalText": "sahanda yumurta (2 yumurta - 1 tatlı kaşığı tereyağı)"
+      },
+      {
+        "foodName": "sebzeli omlet (2 adet yumurta, 2 dilim hindi füme, 5 adet mantar, 5 yaprak ıspanak, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "pastırma ya da 2 dilim hindi füme"
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)"
+      },
+      {
+        "foodName": "Zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon )"
+      },
+      {
+        "foodName": "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin Kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+        "originalText": "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı"
+      },
+      {
+        "foodName": "sebzeli omlet (2 adet yumurta, 2 dilim hindi füme, 5 adet mantar, 5 yaprak ıspanak, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "hindi füme (2 dilim)"
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)"
+      },
+      {
+        "foodName": "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)"
+      },
+      {
+        "foodName": "Çiğ badem  (20 adet)",
+        "originalText": "çiğ badem (20 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PAZAR"
     }
   }
 ]
